@@ -1,20 +1,16 @@
 body {
-    background: violet;
+    background: burlywood;
 }
 
-h1,p {
+h1, p {
     text-align: center;
-}
-
-p {
-    color: azure;
 }
 
 footer {
     text-align: center;
 }
 
-footer a {
+footer a{
     margin: 0 10px;
-    color: white;
+    color: aquamarine;
 }
