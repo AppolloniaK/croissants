@@ -14,3 +14,12 @@ footer a{
     margin: 0 10px;
     color: aquamarine;
 }
+
+img {
+    height: 50%;
+    width: 50%;
+    object-fit: contain;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+   }
